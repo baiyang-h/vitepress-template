@@ -23,3 +23,6 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+<demo />
+
+<el-button type="primary">我是Element-ui组件库的按钮</el-button>
